@@ -97,5 +97,4 @@ Use Task Scheduler to run the script elevated without prompting:
 ## License
 Use freely. You do you, pookieヾ(•ω•`)o
 
----
 
